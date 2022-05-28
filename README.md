@@ -22,14 +22,14 @@ first user has to select the language, there are 3 option first for c language ,
 and third for python 
 after click on next
 first user has to select the language, there are 3 option first for c language ,second for java and third for python after click on next 
-```
-![Home](url "")
-```
+
+![Home](https://github.com/hiren14/speak-and-code/blob/main/public/home.png)
+
 # now user will speak 
 by click on the mic
-```
-![Home](url "Title")
-```   
+
+![Home](https://github.com/hiren14/speak-and-code/blob/main/public/home.png)
+   
 ## for print 
 
 ```bash
